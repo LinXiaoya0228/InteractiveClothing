@@ -36,7 +36,7 @@
       * **类型：** 概念设计 (德国/新加坡)
       * **适合类别：** `Wearable Technology` (可穿戴技术) 或 `Ageing` (老龄化设计)
       * **准备资料：** A1 展板 (电子版)。需要极高渲染质量的爆炸图 (Exploded View)，展示织物下的传感器结构。
-      * 🔗 **官网：** [Red Dot: Design Concept Schedule](https://www.google.com/search?q=https://www.red-dot.org/design-concept/schedule)
+      * 🔗 **官网：** [Red Dot: Design Concept Schedule](https://www.red-dot.org/design-concept/dates-fees)
 
 ### **2026年 2月**
 
