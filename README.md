@@ -20,6 +20,16 @@
 | **2. 为老人买单的子女**<br>*(The "Caregiver" Child)*<br>**Context:** 担心父母独居跌倒，或心疼父母晨僵痛苦。 | **Priority 1: 安全与防跌 (Safety)**<br>激活神经反应速度，降低跌倒风险。<br>**Priority 2: 晨僵缓解 (Stiffness Relief)**<br>解决老人早上"冻结"起不来的痛苦。<br>**Priority 3: 极简易用 (Ease of Use)** | **"送给父母的隐形理疗师"**<br> | **vs. 传统按摩仪:** 它更智能，能同时训练大脑认知（防痴呆）。<br>**vs. 反应灯:** **无需弯腰** (No Bending)，老人不需要去地上捡灯，更安全。<br>**vs. 药物:** 纯物理疗法，无药物副作用。 |
 | **3. 为自己买单的成年人**<br>*(The "Stressed" Adult)*<br>**Context:** 工作压力大，肩颈僵硬，厌恶健身房。 | **Priority 1: 情绪宣泄 (Stress Relief)**<br>下班后需要快速、暴力的发泄窗口。<br>**Priority 2: 拒绝套路 (Value)**<br>厌恶订阅制 (Subscription Fatigue)，追求一次性付费。<br>**Priority 3: 碎片化 (Convenience)** | **"不占地方的解压神器"**<br>把家变成发泄屋。随时随地来一场"节奏拳击"，无需换装备。 | **vs. 健身房:** 省时，不用出门，不用预约。<br>**vs. BlazePod:** **无月租费** (No Subscription)，一次购买终身使用所有课程。<br>**vs. 冥想APP:** 它是"动"的冥想 (Somatic Release)，比静坐更适合久坐族。 <br>**vs. 健身环，拳击:** ？ |
 
+
+
+# Part 1: 针对性营销策略矩阵 (Buyer-Centric Marketing Strategy)
+*Focus: Emotional Connection + Scientific Validation*
+
+| 目标群体 (Persona & Demographics) | 痛点场景与优先诉求 (Emotional Priority & Professional Terminology) | 核心吸引力 (The Hook) |
+| :--- | :--- | :--- |
+| **1. "神兽"放电神器**<br>*(The Active Kids)*<br>**使用者:** 6-12岁儿童 (ADHD/高精力)<br>**购买者:** 30-45岁父母 | **Priority 1: 把过剩精力变成快乐汗水**<br>*场景:* "终于不用对着屏幕发呆，也不用在沙发上乱跳。看着孩子跟着节奏手舞足蹈、大汗淋漓，是父母最安心的时刻。"<br>🔬 **术语:** **Sensory Integration (感觉统合)**<br><br>**Priority 2: 在游戏中学会专注**<br>*场景:* "不需要说教，孩子为了'通关'自然会全神贯注。每一次精准的击打，都是一次注意力的抓取。"<br>🔬 **术语:** **Executive Function Training (执行功能训练)** | **"这是不会伤眼的'体感游戏机' "**<br>它是让孩子主动放下 iPad 的唯一理由。既是玩具，也是成长的教具。|
+| **2. 父母的隐形护理员**<br>*(The Aging Parents)*<br>**使用者:** 65+ 老人 (关节僵硬/怕跌倒)<br>**购买者:** 35-50岁子女 (无法时刻陪伴) | **Priority 1: 走路带风的自信**<br>*场景:* "不想看到爸妈因为怕摔而不敢出门。每天10分钟的节奏练习，帮他们找回脚下的根，去公园散步更有底气。"<br>🔬 **术语:** **Proprioception Enhancement (本体觉增强)** & **Fall Prevention (跌倒预防)**<br><br>**Priority 2: 告别清晨的"生锈感"**<br>*场景:* "帮爸妈解开清晨身体的'锁'。不需要他们费力运动，穿上衣服，让震动温柔地唤醒僵硬的关节。" (解决 Morning Stiffness)<br>🔬 **术语:** **Passive Mobilization (被动关节松动)** & **Micro-circulation (微循环)** | **"送给父母的24小时贴身理疗师"**<br>这不仅是礼物，更是你不在身边时的健康守护。躺着也能用的被动模式，是对老人最大的体贴。|
+| **3. 职场人的情绪避难所**<br>*(The Burned-out Adult)*<br>**使用者:** 25-45岁 职场人/白领<br>**购买者:** 自己 (为健康投资) | **Priority 1: 撕掉焦虑的标签**<br>*场景:* "被工作甚至生活琐事压得喘不过气？关上门，戴上它，狠狠地'揍'那个节奏。把一天的坏情绪随着汗水甩出去。"<br>🔬 **术语:** **Somatic Release (躯体释放)** & **Cortisol Regulation (皮质醇调节)**<br><br>**Priority 2: 拒绝"办卡吃灰"**<br>*场景:* "不用开车去健身房，不用换装备。利用煮咖啡的3分钟空隙，立刻开启一场精神按摩。"<br>🔬 **术语:** **Flow State Activation (心流激活)** | **"不占地方的解压神器"**<br>把家变成你的私人发泄屋。随时随地，无需预约，即刻释放。 |
 ---
 
 ## Part 2: 用户体验流程 (User Experience Flow)
