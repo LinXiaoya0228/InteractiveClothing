@@ -1,119 +1,100 @@
 
-**含金量最高**且**最契合原型阶段（Prototype）的奖项，并按照时间轴**整理了详细的行动计划。
-
------
-
-# 🏆 Interactive Clothes：全球设计大奖申请时间轴 (2025-2026)
-
-**核心策略：**
-
-1.  **利用“初创”身份**：申请针对 Concept 的类别，费用低，且评委更看重“解决问题的创意”而非“商业销量”。
-2.  **分赛道主打**：
-      * **James Dyson & iF** $\rightarrow$ 主打“解决老年人晨僵”的**社会价值**。
-      * **Core77 & IxDA** $\rightarrow$ 主打“触觉交互/音乐治疗”的**HCI 创新**。
-      * **Red Dot** $\rightarrow$ 主打“隐形科技”的**美学与概念**。
-
------
-
-### **2025年 12月 (现在)**
-
-  * **关键行动：养老院测试素材采集 (深圳南山)**
-      * **目标：** 为申请 **James Dyson Award** 和 **iF** 积累核心证据。
-      * **必拍镜头：** 老人穿戴困难吗？（体现易用性）；使用时的笑容（体现情绪价值）；使用前后对比（体现效果）。
+# 🏆 Interactive Clothes：2026年度全商业级奖项申请时间轴 (Professional Only)
 
 ### **2026年 1月**
 
-  * **Jan 06 - 30 | Core77 Design Awards 2026 (早鸟报名开启)** --- **Feb 27 - Mar 27 | 常规报名**
+  * **Jan 16 | Red Dot Award: Product Design 2026 (Latecomer 截止)** 🛑 **[极度紧急]**
 
-      * **类型：** 工业设计/交互设计 
-      * **适合类别：** `Interaction` (交互), `Health & Wellness` (健康)
-      * **准备资料：** 90秒视频（必须），展示产品如何通过“音乐+震动”改变用户的状态。
-      * **策略：** Core77 评委非常喜欢 HCI (人机交互) 类的新颖硬件，强调“Somatic Interface” (躯体界面) 这个概念。
-      * 🔗 **官网：** [Core77 Design Awards](https://designawards.core77.com/)
+      * **类型：** 商业产品设计 (最高荣誉)
+      * **要求：** 必须在官网注册并缴费 (€890)。产品需在 2024-2026 年间上市。
+      * **后续：** 2月需寄送实物到德国。
+      * Red Dot 要求 2月 收到产品。寄往德国需要处理**锂电池运输**（如果衣服带电池）和**清关**问题。请务必提前联系 DHL/FedEx 确认含电池产品的运输方案，否则会被扣关，导致错过评审。
+      * 🔗 **官网：** [Red Dot PD](https://www.red-dot.org/pd/participate)
 
-  * **Jan 15 (预计) | Red Dot Award: Design Concept (早鸟报名开启)**
+  * **Jan 06 -30 | Core77 Design Awards 2026 (早鸟报名开启)** --- **Feb 27 常规报名 ddl** --- **Mar 27 Late Submission ddl**
 
-      * **类型：** 概念设计 (德国/新加坡)
-      * **适合类别：** `Wearable Technology` (可穿戴技术) 或 `Ageing` (老龄化设计)
-      * **准备资料：** A1 展板 (电子版)。需要极高渲染质量的爆炸图 (Exploded View)，展示织物下的传感器结构。
-      * 🔗 **官网：** [Red Dot: Design Concept Schedule](https://www.red-dot.org/design-concept/dates-fees)
+      * **类型：** 美国工业/交互设计权威
+      * **组别：** **Professional** (专业组)
+      * **类别：** `Health & Wellness` 或 `Interaction`。
+      * 🔗 **官网：** [Core77 Awards](https://designawards.core77.com/)
+
+
+  * **Jan 05 - Mar 11 | IDEA 2026 ** 
+
+      * **类型：** 美国工业设计 (IDSA)
+      * 🔗 **官网：** [IDEA Awards](https://www.idsa.org/awards-recognitions/idea/idea-faqs/)
 
 ### **2026年 2月**
 
-  * **Feb 20 (预计) | iF Design Talent Award 2026 (第一轮截止)**
+  * **Feb 28 | A' Design Award 2026 (Late Deadline 最终截止)**
 
-      * **类型：** 学生/概念设计 (德国)
-      * **适合主题：** 通常对应联合国 SDGs (可持续发展目标)，你们的项目完美契合 **Goal 3: Good Health and Well-being** (健康与福祉)。
-      * **准备资料：** 演示展板 (PDF) + 简短说明。
-      * **费用：** **免费** (针对学生/刚毕业团队)。
-      * 🔗 **官网：** [iF Design Talent Award](https://www.google.com/search?q=https://ifdesign.com/en/if-design-talent-award)
+      * **类型：** 意大利综合设计奖 
+      * **类别：** `Wearable Technologies Design` (专业组)。
+      * **策略：** 虽然被称为“付费奖”，但它的获奖证书和 Logo 在亚洲商业市场（尤其分销商）中认可度尚可，适合作为商业背书的补充。
+      * 🔗 **官网：** [A' Design Award](https://competition.adesignaward.com/)
 
-  * **Late Feb | IDEA (International Design Excellence Awards) (报名开启)**
+### **2026年 3月**
 
-      * **类型：** 工业设计 (美国 IDSA)
-      * **地位：** 美国工业设计界的“奥斯卡”，非常难拿，但入围含金量极高。
-      * **准备资料：** 需要非常详实的“设计研究过程” (Research Process)，即你们从 Reddit 调研到养老院测试的全过程。
-      * 🔗 **官网：** [IDEA Awards](https://www.idsa.org/awards/idea)
+  * **Mar 11 | IDEA 2026 (Late Deadline 晚期截止)**
 
-### **2026年 3月 (重中之重 ⭐)**
+      * **费用：** 费用会上涨约 $200-$300 USD。
 
-  * **Mar 06 (预计) | James Dyson Award (戴森设计大奖) (报名开启)**
-      * **类型：** 工程/设计/解决问题 (全球)
-      * **推荐指数：** 🌟🌟🌟🌟🌟 (**最适合你们的项目**)
-      * **核心宗旨：** "Design something that solves a problem" (设计一个解决问题的产品)。
-      * **准备资料：**
-        1.  **Story:** 讲述“晨僵”如何折磨老人（用数据支持）。
-        2.  **Process:** 展示你们的**失败原型**（丑陋的电路板、手缝的布料），戴森非常看重迭代过程，不要只放精修图！
-        3.  **Video:** 养老院老人的真实反馈视频。
-      * 🔗 **官网：** [James Dyson Award](https://www.jamesdysonaward.org/en-GB/)
+  * **Mar (预计) | Fast Company: Innovation by Design Awards (截止)**
+
+      * **类型：** 商业创新/媒体奖
+      * **特点：** 这是**硅谷和投资圈**最看的奖。如果获奖，Fast Company 会大篇幅报道，对找投资/上市非常有帮助。
+      * **类别：** `Wellness` 或 `Experimental`。
+      * 🔗 **官网：** [Fast Company Awards](https://www.fastcompany.com/apply/innovation-by-design)
 
 ### **2026年 4月**
 
-  * **Apr 24 (预计) | Red Dot: Design Concept (标准报名截止)**
+  * **Apr 01 - May 22 (预计) | Good Design Award (G-Mark) 2026 (报名开启)**
 
-      * **行动：** 如果错过了早鸟，这是最后的黄金窗口。确保渲染图展示了“Textile + Tech”的融合美学。
+      * **类型：** 亚洲最强商业设计奖 (日本)
+      * **重要性：** 如果你们的目标市场包含东亚（中日韩），G-Mark 是必须要拿的。日本市场对“适老化产品”非常买单。
+      * **截止：** 5月下旬。
+      * 🔗 **官网：** [G-Mark](https://www.g-mark.org/)
 
-  * **Late Apr | A' Design Award (公布结果/新一轮准备)**
+  * **Mid Apr | Golden Pin Design Award (金点设计奖) (报名开启)**
 
-      * **类型：** 综合设计 (意大利)
-      * **适合类别：** `Wearable Technologies Design`
-      * **策略：** 这个奖项获奖率相对较高，适合作为团队的“第一个国际奖项”来建立信心。如果有预算，可以随时提交（它是滚动评审，但 2月28日 是常规截止，4月公布）。
-      * 🔗 **官网：** [A' Design Award Categories](https://competition.adesignaward.com/design-award-categories.html)
+      * **类型：** 台湾/华人市场权威奖项
+      * **策略：** 针对大中华区市场（大陆/台湾/香港/新加坡）非常有影响力，且报名费相对亲民。
+      * 🔗 **官网：** [Golden Pin](https://www.goldenpin.org.tw/)
 
 ### **2026年 5月**
 
-  * **Mid May | UX Design Awards (秋季赛报名开启)**
-      * **类型：** 用户体验/交互 (德国)
-      * **适合类别：** `Product` (Prototype)
-      * **重点：** 侧重于 App 与 衣服 的配合流程。准备一个 User Journey Map（用户旅程图），展示从“起床僵硬”到“穿衣激活”的流畅体验。
-      * 🔗 **官网：** [UX Design Awards](https://www.ux-design-awards.com/)
+  * **May 15 (预计) | UX Design Awards (Autumn 2026 截止)** 
 
-### **2026年 7月**
+      * **类型：** 德国/交互体验专项
+      * **组别：** **Product** (商业产品组)。
+      * **策略：** 这是一个专门奖励“用户体验”的奖项。重点展示你们的 App 界面、触觉反馈逻辑和用户心流（User Journey）。
+      * **费用：** 约 €320 报名费 + 入围后 €2250 的推广费（注意预算！）。
+      * 🔗 **官网：** [UX Design Awards](https://ux-design-awards.com/)
 
-  * **Jul 17 (预计) | James Dyson Award (报名截止)**
-      * **警告：** 绝对不要错过这个截止日期。
+  * **Mid May - End June| iF DESIGN AWARD 2027 (早鸟报名开启)** 
 
-### **2026年 9月 - 10月**
+      * **类型：** 德国商业设计奖 (2027年度)
+      * **策略：** 既然错过了 2026 的商业组，现在是布局 2027 的最佳时机。5月报名最便宜 (\~€250)，先占坑。
 
-  * **Sep | James Dyson Award (国家级赛区结果公布)**
-      * 如果获得国家/地区（中国或新加坡）优胜奖，将进入国际区角逐。
-  * **Oct | Red Dot Award Ceremony (新加坡)**
-      * 红点概念奖的颁奖典礼通常在新加坡举行（Red Dot Museum），如果获奖，你们可以就近领奖并扩大人脉。
+### **2026年 9月**
+
+  * **Sep (预计) | CES 2027 Innovation Awards (报名开启)**
+      * **类型：** 消费电子/科技
+      * **策略：** 这是你们产品的**本命奖项**。如果你们计划参加 CES 2027，必须申请这个。
+      * **要求：** 产品必须在 2026年4月 - 2027年4月 之间上市。
+      * 🔗 **官网：** [CES Innovation Awards](https://www.google.com/search?q=https://www.ces.tech/innovation-awards/how-to-enter.html)
 
 -----
 
-# 📝 申请资料准备清单 (Checklist)
+## 📊 商业奖项决策矩阵 (Decision Matrix)
 
-| 资料类型 | 详细要求 | 对应奖项侧重 |
-| :--- | :--- | :--- |
-| **问题陈述 (The Problem)** | 300字。引用 Reddit/医学数据：晨僵持续60分钟，33%迟到率，依从性低。 | **Dyson** (核心), Core77 |
-| **解决方案 (The Solution)** | 300字。关键词：*Zero Setup* (零门槛), *Passive/Active Modes* (双模式), *Haptic Guidance* (触觉引导)。 | **Red Dot**, iF |
-| **视频 (Video)** | 90-120秒。结构：痛点呈现 $\rightarrow$ 穿戴演示 $\rightarrow$ 音乐互动 $\rightarrow$ 老人笑脸 $\rightarrow$ 数据图表。 | **All Awards** (视频是加分项) |
-| **原型日志 (Prototype Log)** | 照片拼图。展示从面包板(Breadboard)到最终成衣的迭代过程。证明你们真的动手做了。 | **Dyson** (必杀技) |
-| **爆炸图 (Exploded View)** | 高清渲染图。拆解衣服结构：面料层-电路层-触觉马达-皮肤接触层。展示技术含量。 | **Red Dot**, IDEA |
-| **用户证言 (Testimonials)** | 引用养老院测试中的真实反馈。"I feel recharged," "It's like a game." | **Core77**, iF Talent |
+| 奖项名称 | 类别/组别 | 核心价值 (Why apply?) | 预估成本 (报名+获奖) | 推荐指数 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Red Dot (Product)** | Healthcare | 工业设计界的最高荣誉，全行业通吃。 | €650 + €4900+ | ⭐⭐⭐⭐⭐ |
+| **IDEA** | Medical & Health | 北美市场认可度第一，证明商业逻辑扎实。 | \~$600 + 获奖费 | ⭐⭐⭐⭐⭐ |
+| **Fast Company** | Wellness | **极佳的 PR 效果**，吸引投资人和媒体。 | ~$300-$500 | ⭐⭐⭐⭐⭐ |
+| **Core77 (Pro)** | Interaction | 证明你们的 HCI 技术很牛，专家认可度高。 | ~$250 | ⭐⭐⭐⭐ |
+| **G-Mark** | Healthcare | 打开日本及亚洲养老市场的金钥匙。 | \~¥15,000 JPY + 后续 | ⭐⭐⭐⭐ |
+| **UX Design Awards** | Product | 证明软件和交互体验好，而不只是硬件好看。 | €320 + €2250 | ⭐⭐⭐ |
+| **A' Design** | Wearable Tech | 容易拿奖，适合快速增加背书。 | \~€500 | ⭐⭐ |
 
-### 💡 核心建议 (Key Takeaways)
-
-1。 **"James Dyson Award"**是最适合“工程+医疗+人文关怀”类项目的奖项，且对学生免费。“安全”和“晨僵”是完美的 Dyson 选题。
-2. **利用 CES 素材**：你们在 CES 2026 拍摄的照片和收到的反馈，将是 2026 年初申请这些奖项的最强背书。
