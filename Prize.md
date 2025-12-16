@@ -16,7 +16,7 @@
   * **Jan 05 - Mar 11 | IDEA 2026 (报名开启)**
 
       * **类型：** 美国工业设计 
-      * 🔗 **官网：** [IDEA Schedule](https://www.google.com/search?q=https://www.idsa.org/awards/idea/schedule)
+      * 🔗 **官网：** [IDEA Schedule](https://www.idsa.org/awards-recognitions/idea/idea-faqs/)
 
   * **Jan 06 - Mar 27 | Core77 Design Awards 2026 (早鸟报名开启)**
 
@@ -30,14 +30,14 @@
 
   * **Now - Feb 28 | A' Design Award 2026 (Late Submission 截止)** 🛑
 
-      * **类型：** 综合设计 (适合快速拿奖)
+      * **类型：** 综合设计 
       * **适合类别：** `Wearable Technologies Design`
       * 🔗 **官网：** [A' Design Dates](https://competition.adesignaward.com/dates.html)
 
   * **Feb (预计) - Apr 25 (预计) | Fast Company: Innovation by Design Awards (早鸟开启)**
 
       * **类型：** 商业创新/媒体奖 
-      * **特点：** 极高的媒体曝光率，对融资和市场营销帮助大。
+      * **特点：** 极高的媒体曝光率，对融资和市场营销帮助大。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
       * 🔗 **官网：** [Fast Company](https://www.fastcompany.com/apply/innovation-by-design)
 
 
@@ -60,7 +60,7 @@
       * **类型：** 华人市场权威奖项 (台湾)
       * 🔗 **官网：** [Golden Pin](https://www.goldenpin.org.tw/)
 
-  * **Mar 27 | Core77 Design Awards 2026 (报名截止)** 🛑
+  * **Mar 27 | Core77 Design Awards 2026 (截止)** 🛑
 
 ### **2026年 4月**
 
@@ -70,7 +70,7 @@
       * **适合理由：** 日本市场对适老化科技接受度高。
       * 🔗 **官网：** [G-Mark Schedule](https://www.g-mark.org/zh-CN/apply/gda/schedule)
 
-  * **Apr 25 (预计) | Fast Company: Innovation by Design Awards (最终截止)** 🛑
+  * **Apr 25 (预计) | Fast Company: Innovation by Design Awards (截止)** 🛑
 
 
 ### **2026年 5月**
@@ -80,17 +80,17 @@
       * **类型：** 德国商业设计奖
       * 🔗 **官网：** [iF Dates](https://www.google.com/search?q=https://ifdesign.com/en/dates-and-fees)
 
-  * **May 15 | UX Design Awards (报名截止)** 🛑
+  * **May 15 | UX Design Awards (截止)** 🛑
 
-  * **May 22 (预计) | Good Design Award (G-Mark) (报名截止)** 🛑
+  * **May 22 (预计) | Good Design Award (G-Mark) (截止)** 🛑
 
 ### **2026年 6月**
 
-  * **Jun 24 | Golden Pin Design Award (报名截止)** 🛑
+  * **Jun 24 | Golden Pin Design Award (截止)** 🛑
 
 ### **2026年 9月**
 
-  * **Sep (预计) | CES 2027 Innovation Awards (报名开启)** 
+  * **Sep (预计) | CES 2027 Innovation Awards** 
       * **类型：** 消费电子/科技 (美国)
       * 🔗 **官网：** [CES Awards](https://www.ces.tech/ces-innovation-awards/innovation-awards/)
 
