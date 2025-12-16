@@ -1,101 +1,123 @@
 
 # 2026年度全商业级奖项申请时间轴
 
+
+
+
+
+-----
+
+
+
+
 ### **2026年 1月**
 
-  * **Jan 16 | Red Dot Award: Product Design 2026 (Latecomer 截止)** 🛑 **[极度紧急]**
+  * **Now - Jan 16 | Red Dot Award: Product Design 2026 (Latecomer 截止)** 🛑 **[极度紧急]**
 
-      * **类型：** 商业产品设计 (最高荣誉)
-      * **要求：** 必须在官网注册并缴费 (€890)。产品需在 2024-2026 年间上市。
-      * **后续：** 2月需寄送实物到德国。
-      * Red Dot 要求 2月 收到产品。寄往德国需要处理**锂电池运输**（如果衣服带电池）和**清关**问题。请务必提前联系 DHL/FedEx 确认含电池产品的运输方案，否则会被扣关，导致错过评审。
-      * 🔗 **官网：** [Red Dot PD](https://www.red-dot.org/pd/participate)
+      * **类型：** 商业产品设计 (全球最高荣誉)
+      * **要求：** 产品必须在 2024-2026 年间上市，且必须寄送功能完好的实物。
+      * **后续：** 2月9日-27日寄送实物至德国 Essen。
+      * 🔗 **官网：** [Red Dot Dates](https://www.red-dot.org/pd/participate)
 
-  * **Jan 06 -30 | Core77 Design Awards 2026 (早鸟报名开启)** --- **Feb 27 常规报名 ddl** --- **Mar 27 Late Submission ddl**
+  * **Jan 05 - Mar 11 | IDEA 2026 (报名开启)**
 
-      * **类型：** 美国工业/交互设计权威
-      * **组别：** **Professional** (专业组)
-      * **类别：** `Health & Wellness` 或 `Interaction`。
-      * 🔗 **官网：** [Core77 Awards](https://designawards.core77.com/)
+      * **类型：** 美国工业设计 
+      * 🔗 **官网：** [IDEA Schedule](https://www.google.com/search?q=https://www.idsa.org/awards/idea/schedule)
+
+  * **Jan 06 - Mar 27 | Core77 Design Awards 2026 (早鸟报名开启)**
+
+      * **类型：** 交互/工业设计
+      * **适合类别：** `Interaction` 或 `Health & Wellness` (Professional 组)
+      * 🔗 **官网：** [Core77 Calendar](https://designawards.core77.com/)
 
 
-  * **Jan 05 - Mar 11 | IDEA 2026** 
-
-      * **类型：** 美国工业设计 (IDSA)
-      * 🔗 **官网：** [IDEA Awards](https://www.idsa.org/awards-recognitions/idea/idea-faqs/)
-
+        
 ### **2026年 2月**
 
-  * **2025 Apr 15 - 2026 Feb 28 | A' Design Award 2026**
+  * **Now - Feb 28 | A' Design Award 2026 (Late Submission 截止)**
 
-      * **类型：** 意大利综合设计奖 
-      * **类别：** `Wearable Technologies Design` (专业组)。
-      * 🔗 **官网：** [A' Design Award](https://competition.adesignaward.com/dates.html)
-        
-  * **Feb - Mar 21 (预计) | Fast Company: Innovation by Design Awards (早鸟)** --- **Apr 25 (预计) | DDL**
+      * **类型：** 综合设计 (适合快速拿奖)
+      * **适合类别：** `Wearable Technologies Design`
+      * 🔗 **官网：** [A' Design Dates](https://competition.adesignaward.com/dates.html)
 
-      * **类型：** 商业创新/媒体奖
-      * **特点：** 如果获奖，Fast Company 会大篇幅报道，对找投资/上市非常有帮助。
-      * 🔗 **官网：** [Fast Company Awards](https://www.fastcompany.com/apply/innovation-by-design)
+  * **Feb (预计) - Apr 25 (预计) | Fast Company: Innovation by Design Awards (早鸟开启)**
 
-        
+      * **类型：** 商业创新/媒体奖 
+      * **特点：** 极高的媒体曝光率，对融资和市场营销帮助大。
+      * 🔗 **官网：** [Fast Company](https://www.fastcompany.com/apply/innovation-by-design)
+
+
+
+    
+
 ### **2026年 3月**
 
-  * **Mar 01 - May 15 | UX Design Awards** 
-      * **组别：** **Product** (商业产品组)。
-      * 🔗 **官网：** [UX Design Awards](https://ux-design-awards.com/enter/dates)
-        
-  * **Mar 11 | IDEA 2026 (Late Submission ddl)**
-    
-  * **Mar 17 - May 20 | Golden Pin Design Award (金点设计奖) (早鸟)** --- **May 20 - Jun 24 | DDL**
+  * **Mar 01 - May 15 | UX Design Awards (Autumn 报名开启)**
 
+      * **类型：** 交互体验专项 (德国)
+      * **适合组别：** `Product` (商业产品)
+      * 🔗 **官网：** [UX Design Dates](https://ux-design-awards.com/enter/dates)
+
+  * **Mar 11 | IDEA 2026 (Late Submission 截止)** 🛑
+
+
+  * **Mar 17 - Jun 24 | Golden Pin Design Award (金点设计奖)**
+
+      * **类型：** 华人市场权威奖项 (台湾)
       * 🔗 **官网：** [Golden Pin](https://www.goldenpin.org.tw/)
-        
-  * **Mar 27 | Core77 Design Awards 2026 (Late Submission ddl)**
-    
+
+  * **Mar 27 | Core77 Design Awards 2026 (报名截止)** 🛑
 
 ### **2026年 4月**
 
   * **Apr 01 - May 22 (预计) | Good Design Award (G-Mark) 2026**
 
-      * **类型：** 亚洲最强商业设计奖 (日本)
-      * **重要性：** 日本市场对“适老化产品”非常买单。
-      * 🔗 **官网：** [G-Mark](https://www.g-mark.org/zh-CN/apply/gda/schedule)
+      * **类型：** 亚洲商业设计标杆 (日本)
+      * **适合理由：** 日本市场对适老化科技接受度高。
+      * 🔗 **官网：** [G-Mark Schedule](https://www.g-mark.org/zh-CN/apply/gda/schedule)
 
-  * **Apr 25 (预计) | Fast Company: Innovation by Design Awards DDL**
-    
+  * **Apr 25 (预计) | Fast Company: Innovation by Design Awards (最终截止)** 🛑
+
+
 ### **2026年 5月**
 
+  * **Mid May | iF DESIGN AWARD 2027 (早鸟报名开启)** 
 
-  * **Mid May - End June| iF DESIGN AWARD 2027 (早鸟报名开启)** --- **End June - End Sep | Regular DDL** --- **End Sep - Nov 5 (预计) | Late Submission DDL**
-    
-  * **May 15 | UX Design Awards DDL**
-    
-  * **May 22 (预计) | Good Design Award (G-Mark) 2026 DDL**
-    
-    
+      * **类型：** 德国商业设计奖
+      * 🔗 **官网：** [iF Dates](https://www.google.com/search?q=https://ifdesign.com/en/dates-and-fees)
+
+  * **May 15 | UX Design Awards (报名截止)** 🛑
+
+  * **May 22 (预计) | Good Design Award (G-Mark) (报名截止)** 🛑
+
+### **2026年 6月**
+
+  * **Jun 24 | Golden Pin Design Award (报名截止)** 🛑
+
 ### **2026年 9月**
 
-  * **Sep (预计) | CES 2027 Innovation Awards (报名开启)**
-      * **类型：** 消费电子/科技
-      * **要求：** 产品必须在 2026年4月 - 2027年4月 之间上市。
-      * 🔗 **官网：** [CES Innovation Awards](https://www.google.com/search?q=https://www.ces.tech/innovation-awards/how-to-enter.html)
-        
+  * **Sep (预计) | CES 2027 Innovation Awards (报名开启)** 
+      * **类型：** 消费电子/科技 (美国)
+      * 🔗 **官网：** [CES Awards](https://www.ces.tech/ces-innovation-awards/innovation-awards/)
+
 ### **2026年 11月**
-  * **Nov 5 (预计) | iF DESIGN AWARD 2027 Late Submission DDL**
-    
+
+  * **Nov 05 (预计) | iF DESIGN AWARD 2027 (Late Submission 截止)** 🛑
+
 -----
 
-## 📊 商业奖项决策矩阵 (Decision Matrix)
+## 按**报名紧迫性**排序
 
-| 奖项名称 | 类别/组别 | 报名时间 | DDL | 
+
+| 奖项名称 | 核心赛道 | 报名窗口 (Start) | 截止日期 (DDL) | 
 | :--- | :--- | :--- | :--- |
-| **Red Dot (Product)** | Healthcare | Now | Jan 16 | 
-| **IDEA** | Medical & Health | Jan 05 | Mar 11 | 
-| **Fast Company** | Wellness | Feb | Apr 25 (预计) | 
-| **Core77 (Pro)** | Interaction | Jan 6 | Mar 27 |
-| **G-Mark** | Healthcare | Apr 1 (预计) | May 22 (预计) | 
-| **UX Design Awards** | Product | Mar 01 | May 15 |
-| **A' Design** | Wearable Tech | Now | Feb 28 | 
-| **iF DESIGN AWARD 2027** |  | Mid May | Nov 5 (预计) | 
-
+| **Red Dot (Product)** | **工业设计** | **Now** | **Jan 16** | 
+| **IDEA** | **工业设计** | Jan 05 | Mar 11 |  
+| **A' Design** | **综合设计** | Now | Feb 28 | 
+| **Core77 (Pro)** | **交互/HCI** | Jan 06 | Mar 27 | |
+| **Fast Company** | **商业/媒体** | Feb (预计) | Apr 25 (预计) | 
+| **UX Design Awards**| **交互体验** | Mar 01 | May 15 |  
+| **G-Mark** | **亚洲商业** | Apr 01 (预计)| May 22 (预计)|  
+| **Golden Pin** | **华人市场** | Mar 17 | Jun 24 | 
+| **iF DESIGN 2027** | **工业设计** | Mid May | Nov 05 (预计)| 
+| **CES 2027** | **科技消费** | Sep (预计) | TBD | 
