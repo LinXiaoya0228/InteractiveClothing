@@ -24,7 +24,6 @@
 To capture leads at CES 2026, I co-developed a high-conversion Landing Page. I implemented a responsive design using **HTML5 & Tailwind CSS**, featuring custom-coded visual interactions to demonstrate the app interface.
 
 ### 🎥 Live Demo (Preview)
-> *The GIFs below demonstrate the responsive scrolling interactions and the "Zero-Distraction" video player implementation.*
 
 <table width="100%">
   <tr>
@@ -54,21 +53,16 @@ To capture leads at CES 2026, I co-developed a high-conversion Landing Page. I i
 
 </div>
 
-### 💻 Key Technical Contributions
-* **Survey Integration:** Engineered a custom **Forminator** questionnaire using CSS Grid/Flexbox hacks to force a 2-column layout on desktop while maintaining a mobile-friendly single column.
-* **Responsive Design:** Implemented "Mobile-First" media queries to ensure the 12-point haptic feedback visualization renders perfectly on all devices.
-* **Conversion Optimization:** Replaced standard forms with a gamified flow to capture buyer intent (Price sensitivity & Feature preference).
-
 ---
 
 ## 📊 Market Analysis: The Pivot
 > *See full analysis in [Market_Analysis_and_Personas.md](./Market_Analysis_and_Personas.md)*
 
-By analyzing "frequency keywords" in negative reviews of competitors, I discovered that **"Morning Stiffness"** and **"Subscription Fatigue"** were the two biggest pain points.
+By analyzing "frequency keywords" in reviews of competitors, I discovered that **"Morning Stiffness"** and **"Subscription Fatigue"** were the two biggest pain points.
 
 | Competitor Weakness | Our Strategic Pivot |
 | :--- | :--- |
-| **"Hardware as a Service"** (Monthly Fees) | **"One Price, Lifetime Access"** (No Subscription) |
+| **"Hardware as a Service"** (Monthly Fees) | **"One Price, Lifetime Access"** |
 | **"Athletic/Aggressive"** Branding | **"Gentle/Somatic"** Branding for Aging Parents |
 | **"Setup Friction"** (Tripods/Mounts) | **"Wear & Play"** (Zero Setup Friction) |
 
