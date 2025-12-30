@@ -37,8 +37,8 @@ gantt
 * **12月28日** 📢 **CES Landing Page (落地页) 上线**
     * **必须上线：** 在出发去LA前完成。
     * **页面内容：**
-        * **Hero Section:** 痛点对比图 + “Interactive Clothes: The Rhythm of Health(我们的slogan)”。
-        * **诱饵:** "Sign up for **40% OFF** Super Early Bird Launch Invite" (点击弹窗输邮箱)。
+        * **Hero Section** 
+        * **诱饵:** "Sign up for **20% OFF** Super Early Bird Launch Invite" (点击弹窗输邮箱)。
         * **指引:** CES 展位号 (Venetian Expo, Hall G, Booth #XXXX)。
     * **技术准备：** 确保 Google Analytics 和 Meta Pixel 埋点完成，用于后续追踪。
 
