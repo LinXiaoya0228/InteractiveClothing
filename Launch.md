@@ -1,11 +1,4 @@
 
-# 🗓️ Global Launch Roadmap (2026)
-**Project:** Interactive Clothes Commercialization | **Timeline:** Dec 2025 - July 2026
-
-## Critical Milestones
-* **Phase 1: Validation (Jan 2026):** Secure "Red Dot Award" submission and collect 500+ leads at CES Las Vegas.
-* **Phase 2: Crowdfunding (Mar 2026):** Kickstarter Launch. Goal: Fund 50% in first 24 hours to trigger algorithm boost.
-* **Phase 3: Domestic Scale (Jun 2026):** Pivot to China market for "618 Festival", leveraging international success as social proof.
 
 ## Visual Timeline
 ```mermaid
