@@ -1,35 +1,55 @@
+
 <div align="center">
 
-# 🚀 GTM Strategy & Digital Execution: "Interactive Clothes"
-### From Sentiment Analysis to Frontend Implementation
+# 🚀 GTM Strategy & Persona Modeling: "Interactive Clothes"
+### From Unstructured Data to Commercial Roadmap
 
 [![Status](https://img.shields.io/badge/Status-Completed-success)]()
 [![Event](https://img.shields.io/badge/Launch-CES_2026-blue)]()
-[![Stack](https://img.shields.io/badge/Tech-HTML5_%7C_Tailwind_%7C_CSS-orange)]()
+[![Tool](https://img.shields.io/badge/Tools-Python_%7C_Tableau_%7C_HTML5-yellow)]()
 
-*A comprehensive market analysis, commercial roadmap, and landing page implementation for a haptic wearable startup.*
+*A comprehensive market analysis, commercial roadmap, and landing page implementation for a haptic wearable startup targeting the Health-Tech sector.*
 
 </div>
 
 ---
 
 ## 📖 Executive Summary
-**The Challenge:** A hardware startup developed a "haptic vest" with 12 vibration nodes but lacked a clear market fit and a conversion-optimized digital presence.
+**The Challenge:** A Shenzhen-based hardware startup developed a "haptic vest" with 12 vibration nodes but lacked a clear market fit. They initially targeted "general fitness," a saturated market with high customer acquisition costs.
 
-**My Role:** As a Market Data Analyst & Frontend Contributor, I pivoted the product strategy based on user sentiment analysis and **engineered the official landing page** to capture leads for CES 2026.
+**My Role:** As a Market Data Analyst & Frontend Contributor, I pivoted the strategy from "Fitness" to **"Somatic Health & Neuro-Rehab"**, identifying three unserved personas. I then engineered the **CES 2026 Landing Page** and a 6-month commercial roadmap spanning **CES (USA)** to **618 (China)**.
 
 ---
 
-## 💻 Digital Execution: High-Conversion Landing Page
-> *I designed and coded the responsive frontend to ensure a seamless user experience from "Interest" to "Lead Capture."*
+## 🌐 Digital Execution: CES Landing Page
+To capture leads at CES 2026, I co-developed a high-conversion Landing Page. I implemented a responsive design using **HTML5 & Tailwind CSS**, featuring custom-coded visual interactions to demonstrate the app interface.
 
-### 🎥 Interaction Demo
-*(Placeholder: Upload your GIF showing the page scroll, responsive mobile view, and the custom Forminator survey interaction)*
+### 🎥 Live Demo (Preview)
+> *The GIFs below demonstrate the responsive scrolling interactions and the "Zero-Distraction" video player implementation.*
 
-**Key Engineering Contributions:**
-* **Custom CSS Architecture:** Overrode strict WordPress plugin defaults using advanced CSS selectors to force a **2-column Grid Layout** for surveys, improving readability on desktop while maintaining a single-column flow for mobile.
-* **Responsive Design:** Utilized `Media Queries` and `Tailwind CSS` to ensure pixel-perfect rendering of complex visuals (e.g., the 12-point haptic feedback map) across all device sizes.
-* **Lead Capture Optimization:** Replaced standard forms with a gamified, multi-step questionnaire to capture buyer intent (Price sensitivity & Feature preference) without sacrificing UX.
+<table width="100%">
+  <tr>
+    <td width="45%" align="center">
+      <img src="CES_Landing_Page/HUFUWeb1.gif" width="100%" alt="Landing Page Scroll Part 1"/>
+    </td>
+    <td width="10%">
+        </td>
+    <td width="45%" align="center">
+      <img src="CES_Landing_Page/HUFUWeb2.gif" width="100%" alt="Landing Page Scroll Part 2"/>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+### 📺 [Click Here to Watch the Full 1-Minute Walkthrough on YouTube](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+
+</div>
+
+### 💻 Key Technical Contributions
+* **Survey Integration:** Engineered a custom **Forminator** questionnaire using CSS Grid/Flexbox hacks to force a 2-column layout on desktop while maintaining a mobile-friendly single column.
+* **Responsive Design:** Implemented "Mobile-First" media queries to ensure the 12-point haptic feedback visualization renders perfectly on all devices.
+* **Conversion Optimization:** Replaced standard forms with a gamified flow to capture buyer intent (Price sensitivity & Feature preference).
 
 ---
 
@@ -46,14 +66,14 @@ By analyzing "frequency keywords" in negative reviews of competitors, I discover
 
 ---
 
-## 🗓️ Commercial Roadmap
+## 🗓️ Commercial Roadmap (Gantt Chart)
 > *See detailed timeline in [Launch_Timeline.md](./Launch_Timeline.md)*
 
 I designed a "Export-to-Domestic" strategy: Building brand equity in the US (CES + Kickstarter) to drive premium sales in China.
 
 ```mermaid
 gantt
-    title GTM Execution: CES to 618
+    title Interactive Clothing GTM Execution Plan
     dateFormat  YYYY-MM-DD
     axisFormat  %m-%d
     todayMarker off
@@ -71,7 +91,6 @@ gantt
     section 🇨🇳 China Expansion
     618 Pre-Sale Prep          :         2026-04-15, 2026-05-20
     Tmall/JD Flagship Launch   :         2026-05-26, 2026-06-20
-
 ```
 ---
 
