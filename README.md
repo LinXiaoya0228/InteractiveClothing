@@ -3,7 +3,6 @@
 # 🚀 GTM Strategy & Persona Modeling: "Interactive Clothes"
 ### From Unstructured Data to Commercial Roadmap
 
-[![Status](https://img.shields.io/badge/Status-Completed-success)]()
 [![Event](https://img.shields.io/badge/Launch-CES_2026-blue)]()
 [![Award](https://img.shields.io/badge/Award-Red_Dot_Design_2026_Nominee-red)]()
 [![Tool](https://img.shields.io/badge/Tools-Python_%7C_Tableau_%7C_HTML5-yellow)]()
