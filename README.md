@@ -75,54 +75,105 @@ I designed a "Export-to-Domestic" strategy: Building brand equity in the US (CES
 
 ```mermaid
 gantt
-    title Interactive Clothes Global Commercialization Master Plan (2025-2026)
+    title Interactive Clothes Global Commercialization Plan (2025-2026)
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%d
-    topPadding 50
-    leftPadding 200
 
-    section P1: Validation & CES Prep
-    Shenzhen Nursing Home Test            :done, des1, 2025-12-23, 2d
-    CES Landing Page Live                 :done, des2, 2025-12-31, 1d
-    Award Applications (Red Dot Pre‑CES)  :milestone, 2026-01-01, 6d
-    CES 2026 Las Vegas Expo               :active, des3, 2026-01-02, 8d
-    Red Dot Deadline                      :crit, milestone, 2026-01-16, 1d
+    section P1: Validation & CES
+    Nursing Home Test                 :done, des1, 2025-12-23, 2d
+    CES Landing Page Live             :done, des2, 2025-12-31, 1d
+    Award Applications (Red Dot)      :milestone, 2026-01-01, 6d
+    CES 2026 Expo                     :active, des3, 2026-01-02, 8d
+    Red Dot Deadline                  :crit, milestone, 2026-01-16, 1d
 
-    section P2: Production & Pre‑Launch
-    PVT Trial Production Start            :des5, 2026-02-01, 1d
-    KOL/YouTuber Sample Shipments         :des6, 2026-02-01, 20d
-    Email Marketing (EDM)                 :des7, 2026-02-20, 7d
-    Red Dot Sample Shipment               :des8, 2026-02-09, 19d
-    Kickstarter Review Submission         :crit, des9, 2026-02-15, 6d
-    A' Design Award Deadline              :milestone, 2026-02-28, 1d
+    section P2: Production & Prep
+    PVT Trial Start                   :des5, 2026-02-01, 1d
+    KOL/YouTuber Samples              :des6, 2026-02-01, 20d
+    Email Marketing (EDM)             :des7, 2026-02-20, 7d
+    Red Dot Sample Shipment           :des8, 2026-02-09, 19d
+    KS Review Submission              :crit, des9, 2026-02-15, 6d
+    A' Design Award Deadline          :milestone, 2026-02-28, 1d
 
-    section P3: Kickstarter Launch
-    Email Countdown Campaign              :des10, 2026-03-01, 9d
-    Kickstarter Launch Day                :crit, milestone, 2026-03-10, 1d
-    External Traffic Activation           :des11, 2026-03-15, 15d
-    IDEA 2026 Deadline                    :milestone, 2026-03-11, 1d
-    Core77 Deadline                       :milestone, 2026-03-27, 1d
+    section P3: Kickstarter
+    Email Countdown                   :des10, 2026-03-01, 9d
+    Kickstarter Launch                :crit, milestone, 2026-03-10, 1d
+    External Traffic                  :des11, 2026-03-15, 15d
+    IDEA Deadline                     :milestone, 2026-03-11, 1d
+    Core77 Deadline                   :milestone, 2026-03-27, 1d
 
-    section P4: Wrap‑up & China Entry
-    G‑Mark Opens                          :milestone, 2026-04-01, 1d
-    Kickstarter Ends                      :crit, milestone, 2026-04-10, 1d
-    MP Material Prep Start                :des12, 2026-04-15, 1d
-    China Seeding (Export→Domestic)       :des13, 2026-04-15, 15d
-    FastCo Innovation Deadline            :milestone, 2026-04-25, 1d
+    section P4: Wrap‑up & CN Entry
+    G‑Mark Opens                      :milestone, 2026-04-01, 1d
+    KS Ends                           :crit, milestone, 2026-04-10, 1d
+    MP Prep Start                     :des12, 2026-04-15, 1d
+    CN Seeding (Export→Domestic)      :des13, 2026-04-15, 15d
+    FastCo Deadline                   :milestone, 2026-04-25, 1d
 
-    section P5: China 618 Campaign
-    Tmall/JD Store Setup                  :des14, 2026-05-10, 1d
-    iF Award 2027 Opens                   :milestone, 2026-05-15, 1d
-    618 Pre‑Sale Launch                   :crit, des15, 2026-05-26, 1d
-    KS First Batch Shipping               :des16, 2026-06-10, 1d
-    618 Sales Peak                        :des17, 2026-06-15, 6d
+    section P5: 618 Campaign
+    Tmall/JD Setup                    :des14, 2026-05-10, 1d
+    iF Award Opens                    :milestone, 2026-05-15, 1d
+    618 Pre‑Sale                      :crit, des15, 2026-05-26, 1d
+    KS First Shipping                 :des16, 2026-06-10, 1d
+    618 Peak                          :des17, 2026-06-15, 6d
 
-    section P6: Fulfillment & Follow‑up
-    Domestic 618 Shipping Start           :des18, 2026-07-01, 1d
-    User Community Building               :des19, 2026-07-15, 1d
-    CES 2027 Innovation Opens             :milestone, 2026-09-01, 1d
+    section P6: Fulfillment
+    CN 618 Shipping Start             :des18, 2026-07-01, 1d
+    User Community                    :des19, 2026-07-15, 1d
+    CES 2027 Opens                    :milestone, 2026-09-01, 1d
+
+```
 
 
+```mermaid
+gantt
+    title Interactive Clothes Global Commercialization Plan (2025-2026)
+    dateFormat  YYYY-MM-DD
+    axisFormat  %m/%d
+
+    section P1: Validation & CES
+    _ :p1pad, 2025-12-08, 1d
+    Nursing Home Test                 :done, des1, 2025-12-23, 2d
+    CES Landing Page Live             :done, des2, 2025-12-31, 1d
+    Award Applications (Red Dot)      :milestone, 2026-01-01, 6d
+    CES 2026 Expo                     :active, des3, 2026-01-02, 8d
+    Red Dot Deadline                  :crit, milestone, 2026-01-16, 1d
+
+    section P2: Production & Prep
+    PVT Trial Start                   :des5, 2026-02-01, 1d
+    KOL/YouTuber Samples              :des6, 2026-02-01, 20d
+    Email Marketing (EDM)             :des7, 2026-02-20, 7d
+    Red Dot Sample Shipment           :des8, 2026-02-09, 19d
+    KS Review Submission              :crit, des9, 2026-02-15, 6d
+    A' Design Award Deadline          :milestone, 2026-02-28, 1d
+
+    section P3: Kickstarter
+    _ :p3pad, 2026-02-14, 1d
+    Email Countdown                   :des10, 2026-03-01, 9d
+    Kickstarter Launch                :crit, milestone, 2026-03-10, 1d
+    External Traffic                  :des11, 2026-03-15, 15d
+    IDEA Deadline                     :milestone, 2026-03-11, 1d
+    Core77 Deadline                   :milestone, 2026-03-27, 1d
+
+    section P4: Wrap‑up & CN Entry
+    _ :p4pad, 2026-03-17, 1d
+    G‑Mark Opens                      :milestone, 2026-04-01, 1d
+    KS Ends                           :crit, milestone, 2026-04-10, 1d
+    MP Prep Start                     :des12, 2026-04-15, 1d
+    CN Seeding (Export→Domestic)      :des13, 2026-04-15, 15d
+    FastCo Deadline                   :milestone, 2026-04-25, 1d
+
+    section P5: 618 Campaign
+    _ :p5pad, 2026-04-25, 1d
+    Tmall/JD Setup                    :des14, 2026-05-10, 1d
+    iF Award Opens                    :milestone, 2026-05-15, 1d
+    618 Pre‑Sale                      :crit, des15, 2026-05-26, 1d
+    KS First Shipping                 :des16, 2026-06-10, 1d
+    618 Peak                          :des17, 2026-06-15, 6d
+
+    section P6: Fulfillment
+    _ :p6pad, 2026-06-16, 1d
+    CN 618 Shipping Start             :des18, 2026-07-01, 1d
+    User Community                    :des19, 2026-07-15, 1d
+    CES 2027 Opens                    :milestone, 2026-09-01, 1d
 
 ```
 ---
