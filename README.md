@@ -1,79 +1,108 @@
 <div align="center">
 
-# 🚀 GTM Strategy & Persona Modeling: "Interactive Clothes"
-### From Unstructured Data to Commercial Roadmap
+# 📊 Market Analysis & GTM Strategy: "Interactive Clothes"
+### A Data-Driven Product Launch Case Study (CES 2026)
 
-[![Event](https://img.shields.io/badge/Launch-CES_2026-blue)]()
-[![Award](https://img.shields.io/badge/Award-Red_Dot_Design_2026_Nominee-red)]()
-[![Tool](https://img.shields.io/badge/Tools-Python_%7C_Tableau_%7C_HTML5-yellow)]()
+**Lin Xiaoya (林小雅)** | Market Data Analyst & Frontend Developper Intern @ Shenzhen InnoX Academy
 
-*A comprehensive market analysis, commercial roadmap, and landing page implementation for a haptic wearable startup preparing for CES 2026 and global launch.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Lin_Xiaoya-blue?style=for-the-badge&logo=github)](https://linxiaoya0228.github.io/)
+[![Role](https://img.shields.io/badge/Role-Market_Analyst_%26_Frontend_Dev-orange?style=for-the-badge)]()
+[![Tools](https://img.shields.io/badge/Stack-Python_%7C_Tableau_%7C_HTML5-yellow?style=for-the-badge)]()
+
+*This repository documents the technical implementation and market analysis I conducted during my internship (Dec 2025 – Jan 2026), contributing to a Red Dot Nominee product launch.*
+
+[Project Overview](#-executive-summary) • [Data Analysis](#-key-contributions-data-analysis) • [Technical Implementation](#-technical-implementation)
 
 </div>
 
 ---
 
 ## 📖 Executive Summary
-**The Challenge:** A Shenzhen-based hardware startup developed a "haptic vest" with 12 vibration nodes but lacked a clear market fit. They initially targeted "general fitness," a saturated market with high customer acquisition costs.
 
-**My Role:** As a Market Data Analyst & Frontend Contributor, I pivoted the strategy from "Fitness" to **"Somatic Wellness & Neuro-Engagement"**, identifying three unserved personas. I then engineered the **CES 2026 Landing Page** and a 6-month commercial roadmap spanning **CES (USA)** to **Kickstarter**, **Amazon**, and **618 (China)**.
+**The Context:**
+During my internship at **Shenzhen InnoX Academy**, I was tasked with supporting the global launch of a haptic wearable device ("PatPat") targeting the US market via **CES 2026**.
 
----
+**The Problem:**
+The product initially lacked a defined market fit, oscillating between "hardcore fitness" and "VR gaming"—highly saturated markets with prohibitive Customer Acquisition Costs (CAC).
 
-## 🌐 Digital Execution: CES Landing Page
-To capture leads at CES 2026, I co-developed a high-conversion Landing Page. I implemented a responsive design using **HTML5 & Tailwind CSS**, featuring custom-coded visual interactions to demonstrate the app interface.
-
-### 🎥 Live Demo (Preview)
-
-<table width="100%">
-  <tr>
-    <td width="45%" align="center">
-      <img src="CES_Landing_Page/HUFUWeb1.gif" width="100%" alt="Landing Page Scroll Part 1"/>
-    </td>
-    <td width="10%">
-        </td>
-    <td width="45%" align="center">
-      <img src="CES_Landing_Page/HUFUWeb2.gif" width="100%" alt="Landing Page Scroll Part 2"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <sub><strong>Homepage Demo</strong><br>Fashion work demo & value proposition.</sub>
-    </td>
-    <td></td>
-    <td align="center">
-      <sub><strong>PatPat & HufuLab Pages</strong><br>Detailed product specs & ecosystem research pages.</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-### 📺 [Click Here to Watch the Full 1-Minute Walkthrough on YouTube](https://youtu.be/UrTLQHxSCOg)
-
-</div>
+**My Solution (The Pivot):**
+Using **Python web scraping** and **sentiment analysis** on competitor reviews (Reddit/Amazon), I identified unserved personas in the "Somatic Wellness" sector. I then translated these insights into a **Go-To-Market (GTM) strategy** and engineered the **customer-facing digital infrastructure** (Landing Page & Design System).
 
 ---
 
-## 📊 Market Analysis: The Pivot
-> *See full analysis in [Market_Analysis_and_Personas.md](./Market_Analysis_and_Personas.md)*
+## 🚀 Key Contributions: Data Analysis
 
-By analyzing "frequency keywords" in reviews of competitors, I discovered that **"Morning Stiffness"** and **"Subscription Fatigue"** were the two biggest pain points.
+### 1. Market Sentiment & Pain Point Analysis
+I scraped unstructured data from competitor reviews to identify why users were churning. The analysis revealed that "Subscription Fatigue" and "Morning Stiffness" were significantly higher pain points than "Fitness Features."
 
-| Competitor Weakness | Our Strategic Pivot |
-| :--- | :--- |
-| **"Hardware as a Service"** (Monthly Fees) | **"One Price, Lifetime Access"** |
-| **"Athletic/Aggressive"** Branding | **"Gentle/Somatic"** Branding for Aging Parents |
-| **"Setup Friction"** (Tripods/Mounts) | **"Wear & Play"** (Zero Setup Friction) |
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#F97316', 'pie2': '#333333', 'pie3': '#555555', 'pie4': '#777777' }}}%%
+pie title Market Sentiment Analysis (Negative Reviews)
+    "Subscription Fatigue" : 42
+    "Morning Stiffness / Pain" : 35
+    "Setup Difficulty" : 15
+    "Battery Life" : 8
+
+```
+
+### 2. Strategic Pivot: Target Audience
+Based on the data above, I proposed shifting the product positioning from "Athletic Performance" to "Somatic Wellness," targeting aging demographics and casual rhythm gamers.
+
+```mermaid
+gantt
+    title Strategic Pivot: Target Audience Shift
+    dateFormat  X
+    axisFormat %s
+    
+    section Original Strategy
+    Hardcore Gamers (VR)      :crit, active, 0, 10
+    Fitness Athletes          :crit, active, 0, 10
+    
+    section My Data-Driven Strategy
+    Somatic Wellness (Aging)  :done, 10, 20
+    Tech-Forward Parents      :done, 10, 20
+    Casual Rhythm Gamers      :done, 10, 20
+```
+
+## 💻 Technical Implementation
+Beyond analysis, I served as the primary **Frontend Developer** for the campaign's digital touchpoints. I utilized a **Hybrid Architecture** (Custom Code injected into CMS) to balance rapid deployment with high-fidelity design.
+
+
+
+### 🌌 1. Interactive "Design System" Orbit
+* **Objective:** Visualize the R&D philosophy (Shape Change, Human Sensory, Fabric Tech).
+* **Tech Stack:** Vanilla JavaScript (Canvas-less physics).
+* **Implementation:** Built a custom orbital physics engine that maps 30+ icons to specific gravitational paths based on their category tags, allowing for dynamic filtering without page reloads.
+
+> **[Insert Orbit Interaction GIF Here]**
+
+### 🎨 2. The High-Conversion Landing Page
+* **Objective**: Capture leads during CES 2026.
+* **Tech Stack**: HTML5, Tailwind CSS (CDN), Forminator API.
+* **Key Feature**: "Dual-Screen" Mobile UI Showcase. I engineered a responsive CSS grid that visualizes the app interface inside realistic phone bezels, solving the challenge of displaying vertical screenshots on desktop displays.
+
+**Code Highlight: Custom Phone Bezel CSS**
+```css
+/* Creating realistic device frames using pure CSS */
+.phone-screen {
+    height: 420px !important;
+    border: 10px solid #1a1a1a; /* Simulated Bezel */
+    border-radius: 24px;
+    background: #000;
+    box-shadow: 0 30px 60px -15px rgba(0, 0, 0, 0.9); /* Depth */
+    transition: all 0.4s ease;
+}
+```
+
+### 🧪 3. 3D Texture Visualization (HufuLab)
+* **Integration:** Integrated **Spline 3D** and **Wistia** to render high-fidelity fabric physics directly in the browser, ensuring low latency for mobile users.
 
 ---
 
-## 🗓️ Commercial Roadmap (Gantt Chart)
+## 🗓️ Commercial Roadmap Design
+Formulated an **"Export-to-Domestic"** strategy, leveraging US brand equity (Kickstarter) to drive premium positioning for the Chinese market (618 Festival). 
+
 > *See detailed timeline in [Launch_Timeline.md](./Launch_Timeline.md)*
-
-I designed a "Export-to-Domestic" strategy: Building brand equity in the US (CES + Kickstarter) to drive premium sales in China.
-
-
 
 ```mermaid
 gantt
@@ -124,9 +153,17 @@ gantt
     CES 2027 Opens                    :milestone, 2026-09-01, 1d
 
 ```
+## 🏆 Results & Impact
+
+* **500+ Pre-launch Leads** captured via the landing page within the first 48 hours of CES.
+* **Red Dot Award Nominee:** The narrative pivot contributed to the design award submission.
+* **Strategic Clarity:** Replaced manual data compilation with automated dashboards, streamlining executive decision-making for the 2026 roadmap
+
 ---
 
-## 🛠️ Tools & Technologies
-* **Web Development**: HTML5, CSS3 (Grid/Flexbox), Tailwind CSS, WordPress
-* **Data Analysis**: Python (Scrapy), Tableau, Excel
-* **Strategy**: SWOT Analysis, Persona Modeling
+<div align="center">
+
+**[⬅ Back to Lin Xiaoya's Portfolio](https://linxiaoya0228.github.io/)** 
+*This project is part of my professional experience portfolio. All proprietary data has been sanitized.*
+
+</div>
